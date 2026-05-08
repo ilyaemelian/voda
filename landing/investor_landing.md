@@ -22,6 +22,12 @@ In Russian, voda means water: essential, flowing, and universal. The brand turns
 
 The domain **voda.to** adds direction: VODA to admission, opportunity, achievement, and the top.
 
+## Mission
+
+VODA is part of a broader EvoStudy education vision: helping ambitious students move from selective school admissions to university admissions, achievement building, scholarships, and long-term career opportunities.
+
+VODA owns the opportunity layer: competitions, deadlines, achievements, and admissions routes.
+
 ## Problem
 
 Academic opportunities are fragmented.

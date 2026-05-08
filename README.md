@@ -47,6 +47,24 @@ Russia has a strong olympiad-driven admissions market where olympiad results can
 
 In the US, Canada, Australia, the UK, and other markets, academic competitions, science fairs, extracurricular achievements, scholarships, and summer programs can strengthen college applications.
 
+## Ecosystem Context
+
+VODA is part of a broader education and admissions vision connected to the EvoStudy ecosystem.
+
+The larger mission is to help ambitious students move through the full path:
+
+- selective high school admissions;
+- university admissions in the US, UK, and other top markets;
+- academic competitions and achievement building;
+- scholarship and profile strategy;
+- long-term career outcomes in technology, AI, research, and global companies.
+
+VODA focuses on the opportunity layer: competitions, deadlines, achievements, and admissions routes. It complements broader admissions products, university search tools, checklists, and student guidance services.
+
+## Mission
+
+Our mission is to help young people find their route, build real achievements, and turn ambition into education and career opportunities.
+
 ## Business Model
 
 VODA is a recurring subscription product.
@@ -107,6 +125,7 @@ It does not include:
 - [Pricing](docs/pricing.md)
 - [Go-To-Market](docs/go_to_market.md)
 - [Private Core Note](docs/private_core_note.md)
+- [Mission](docs/mission.md)
 - [Russian Landing Copy](landing/ru_landing.md)
 - [US Landing Copy](landing/us_landing.md)
 - [Investor Landing Copy](landing/investor_landing.md)

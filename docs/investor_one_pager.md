@@ -25,6 +25,16 @@ In Russian, **voda** means water: natural, memorable, essential, and associated 
 
 The domain **voda.to** reinforces direction: VODA to admission, VODA to opportunity, VODA to achievement, VODA to the top.
 
+## Mission and Ecosystem Context
+
+VODA is part of a broader education and admissions vision connected to the EvoStudy ecosystem.
+
+The larger mission is to help ambitious students move through the full path from selective high school admissions to university admissions, academic achievement, scholarships, and long-term career opportunities.
+
+VODA focuses on the opportunity layer: competitions, deadlines, achievements, and admissions routes. It complements broader admissions products, university search tools, checklists, and student guidance services for families targeting the US, UK, and other top education markets.
+
+Our mission is to help young people find their route, build real achievements, and turn ambition into education and career opportunities.
+
 ## Problem
 
 Families miss valuable academic opportunities because information is fragmented across school chats, university pages, official competition websites, social media, tutors, and admissions rules.

@@ -14,6 +14,14 @@ VODA helps students discover academic competitions, track deadlines, build achie
 
 **Request investor brief**
 
+## Brand Meaning
+
+VODA stands for **Victory, Olympiad/Opportunities, Drive/Direction, Achievement/Advantage**.
+
+In Russian, voda means water: essential, flowing, and universal. The brand turns that metaphor into an education product: a clear route through scattered opportunities.
+
+The domain **voda.to** adds direction: VODA to admission, opportunity, achievement, and the top.
+
 ## Problem
 
 Academic opportunities are fragmented.
@@ -79,4 +87,3 @@ VODA can become a global opportunity and admissions route layer for students, st
 ## Disclaimer
 
 This page is a high-level investor communication draft. It is not a securities offering, investment solicitation, legal filing, patent filing, or trademark filing.
-

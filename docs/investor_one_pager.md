@@ -12,6 +12,19 @@ The product starts with Russian olympiads and expands globally into academic com
 
 **VODA turns scattered student opportunities into personalized admissions routes.**
 
+## Brand Meaning
+
+VODA is a short international brand with a built-in acronym layer:
+
+- **V** - Victory
+- **O** - Olympiad at launch, expanding into Opportunities internationally
+- **D** - Drive and Direction
+- **A** - Achievement and Advantage
+
+In Russian, **voda** means water: natural, memorable, essential, and associated with flow. The brand uses this metaphor to describe how VODA turns fragmented academic opportunities into a clear route.
+
+The domain **voda.to** reinforces direction: VODA to admission, VODA to opportunity, VODA to achievement, VODA to the top.
+
 ## Problem
 
 Families miss valuable academic opportunities because information is fragmented across school chats, university pages, official competition websites, social media, tutors, and admissions rules.
@@ -133,4 +146,3 @@ This document is a high-level investor and concept summary created for timestamp
 The private product code, automation logic, proprietary workflows, deployment details, and implementation assets are intentionally excluded.
 
 This document is not a legal filing, patent filing, trademark filing, securities offering, or investment solicitation.
-

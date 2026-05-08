@@ -17,6 +17,26 @@ VODA helps families:
 - collect achievements into an admissions-ready profile;
 - receive reminders, reports, and next-step guidance.
 
+## Why VODA
+
+VODA is designed as a short international brand with a meaningful acronym layer.
+
+One public interpretation:
+
+- **V** - Victory
+- **O** - Olympiad at launch, expanding internationally into Opportunities
+- **D** - Drive and Direction
+- **A** - Achievement and Advantage
+
+In Russian, **voda** means water: simple, memorable, natural, and essential. Water flows, connects, and makes growth possible. VODA uses that metaphor for education: turning scattered opportunities into a clear route.
+
+The domain **voda.to** adds a direction layer:
+
+- VODA to admission;
+- VODA to opportunity;
+- VODA to achievement;
+- VODA to the top.
+
 ## Markets
 
 ### Russia

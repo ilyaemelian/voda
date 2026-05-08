@@ -1,0 +1,19 @@
+# Local/private materials
+private_source/
+*.zip
+.env
+.env.*
+!.env.example
+
+# Dependencies and build artifacts
+node_modules/
+dist/
+build/
+coverage/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

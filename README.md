@@ -43,9 +43,17 @@ The domain **voda.to** adds a direction layer:
 
 Russia has a strong olympiad-driven admissions market where olympiad results can influence university admissions through direct admission benefits, extra points, privileges, and portfolio value.
 
-### International
+### United States
 
-In the US, Canada, Australia, the UK, and other markets, academic competitions, science fairs, extracurricular achievements, scholarships, and summer programs can strengthen college applications.
+In the United States, academic competitions, science fairs, extracurricular achievements, scholarships, summer programs, research opportunities, and application strategy can strengthen college applications.
+
+### United Kingdom
+
+In the United Kingdom, competitions, challenges, projects, admissions tests, and super-curricular evidence can support stronger UCAS applications.
+
+### Other International Markets
+
+Canada, Australia, New Zealand, and other education markets have related competition, scholarship, and student-opportunity ecosystems that may become future expansion routes.
 
 ## Ecosystem Context
 
@@ -83,17 +91,9 @@ VODA is a recurring subscription product.
 
 ## Product Status
 
-VODA has a private working prototype that demonstrates key product mechanics:
+VODA has public-facing materials, market framing, landing pages, pricing strategy, and a product roadmap. Product development and technical implementation are maintained separately from this public repository.
 
-- student profile;
-- olympiad catalog;
-- opportunity matching;
-- deadline-oriented user experience;
-- real-time registration flow demo;
-- LLM-assisted recommendation logic;
-- mobile wrapper prototype.
-
-The private technical core is intentionally not included in this public repository.
+This repository is designed to communicate the public product thesis, mission, market direction, and investor-facing narrative.
 
 ## Repository Purpose
 
@@ -101,6 +101,8 @@ This public repository is an investor-facing and public-safe project package.
 
 It includes:
 
+- public whitepaper;
+- impact statement;
 - market thesis;
 - investor one-pager;
 - pricing strategy;
@@ -120,6 +122,8 @@ It does not include:
 
 ## Documents
 
+- [Public Whitepaper](docs/whitepaper.md)
+- [Impact Statement](docs/impact_statement.md)
 - [Investor One-Pager](docs/investor_one_pager.md)
 - [Public Roadmap](docs/public_roadmap.md)
 - [Pricing](docs/pricing.md)

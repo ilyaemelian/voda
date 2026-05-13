@@ -58,17 +58,9 @@ The platform helps families:
 
 ## Product Status
 
-VODA has a private working prototype demonstrating core mechanics:
+VODA has public-facing materials, market framing, landing pages, pricing strategy, and a product roadmap. Product development and technical implementation are maintained separately from this public repository.
 
-- student profile;
-- olympiad catalog;
-- opportunity matching;
-- deadline-oriented user experience;
-- real-time registration flow demo;
-- LLM-assisted recommendation logic;
-- mobile wrapper prototype.
-
-The private core is not public because it contains proprietary implementation details, automation logic, deployment information, and internal development assets.
+This public package is intended to communicate the product thesis, mission, market direction, and investor-facing narrative while keeping implementation work in a controlled development environment.
 
 ## Business Model
 
@@ -153,6 +145,6 @@ The long-term goal is to build a profitable subscription business with potential
 
 This document is a high-level investor and concept summary created for timestamping, investor preparation, and public-safe communication.
 
-The private product code, automation logic, proprietary workflows, deployment details, and implementation assets are intentionally excluded.
+Production implementation, automation logic, proprietary workflows, deployment details, and confidential assets are maintained separately from this public repository.
 
 This document is not a legal filing, patent filing, trademark filing, securities offering, or investment solicitation.

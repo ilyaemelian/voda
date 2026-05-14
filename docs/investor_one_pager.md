@@ -58,9 +58,9 @@ The platform helps families:
 
 ## Product Status
 
-VODA has public-facing materials, market framing, landing pages, pricing strategy, and a product roadmap. Product development and technical implementation are maintained separately from this public repository.
+VODA has public-facing materials, market framing, landing pages, pricing strategy, and a product roadmap.
 
-This public package is intended to communicate the product thesis, mission, market direction, and investor-facing narrative while keeping implementation work in a controlled development environment.
+The public package communicates the product thesis, mission, market direction, and investor-facing narrative.
 
 ## Business Model
 
@@ -116,7 +116,7 @@ United States:
 - launch US landing and waitlist;
 - test pricing and messaging;
 - collect first leads and interviews;
-- prepare private demo video.
+- prepare product demo video.
 
 31-90 days:
 
@@ -145,6 +145,6 @@ The long-term goal is to build a profitable subscription business with potential
 
 This document is a high-level investor and concept summary created for timestamping, investor preparation, and public-safe communication.
 
-Production implementation, automation logic, proprietary workflows, deployment details, and confidential assets are maintained separately from this public repository.
+Product development, operational workflows, and fundraising materials are managed through the project team.
 
 This document is not a legal filing, patent filing, trademark filing, securities offering, or investment solicitation.

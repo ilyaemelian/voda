@@ -27,7 +27,7 @@
 ## Phase 4: Investor Readiness
 
 - prepare investor deck;
-- prepare private demo video;
+- prepare product demo video;
 - build data room;
 - document traction and unit economics;
 - prepare US investor outreach.
@@ -38,4 +38,3 @@
 - expand international opportunity categories;
 - add B2B offers for tutors, schools, and counselors;
 - pursue strategic partnerships.
-

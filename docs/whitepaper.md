@@ -116,9 +116,9 @@ Potential revenue streams:
 
 ## Product Status
 
-VODA has public-facing materials, market framing, landing pages, pricing strategy, and a product roadmap. Product development and technical implementation are maintained separately from this public repository.
+VODA has public-facing materials, market framing, landing pages, pricing strategy, and a product roadmap.
 
-This repository is intended to communicate the public thesis, mission, market direction, and investor-facing narrative without exposing production implementation details.
+This repository is intended to communicate the public thesis, mission, market direction, and investor-facing narrative.
 
 ## Impact Thesis
 
@@ -146,14 +146,12 @@ For education ecosystems, VODA can increase participation in academic competitio
 3. Improve student routes by age, goal, and country.
 4. Add parent reporting and recurring payments.
 5. Build repeatable acquisition channels.
-6. Prepare investor materials and private product demonstrations.
+6. Prepare investor materials and product demonstrations.
 7. Expand into additional international admissions markets.
 
-## Public-Safe Boundary
+## Public Scope
 
 This document is a public whitepaper. It describes the product thesis, market framing, mission, and high-level model.
-
-It does not contain production source code, prompts, internal datasets, deployment details, credentials, private workflows, or confidential implementation materials.
 
 ## Legal Note
 

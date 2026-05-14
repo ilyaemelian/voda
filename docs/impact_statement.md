@@ -69,4 +69,4 @@ This repository serves as a public evidence layer for:
 - future partnership discussions;
 - immigration or founder-visa contexts where public proof of startup activity and impact may be useful.
 
-The public materials are intentionally high-level and safe to share. Product implementation and confidential assets are maintained separately.
+The public materials are high-level and designed for product, investor, partner, and founder evidence contexts.

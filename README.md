@@ -110,25 +110,17 @@ It includes:
 - go-to-market outline;
 - public roadmap.
 
-It does not include:
-
-- private source code;
-- automation logic;
-- LLM prompts;
-- deployment scripts;
-- internal datasets;
-- proprietary workflows;
-- secrets or credentials.
-
 ## Documents
 
 - [Public Whitepaper](docs/whitepaper.md)
 - [Impact Statement](docs/impact_statement.md)
 - [Investor One-Pager](docs/investor_one_pager.md)
+- [Traction Plan](docs/traction_plan.md)
+- [Data Room Index](docs/data_room_index.md)
 - [Public Roadmap](docs/public_roadmap.md)
 - [Pricing](docs/pricing.md)
 - [Go-To-Market](docs/go_to_market.md)
-- [Private Core Note](docs/private_core_note.md)
+- [Public Scope](docs/public_scope.md)
 - [Mission](docs/mission.md)
 - [Russian Landing Copy](landing/ru_landing.md)
 - [US Landing Copy](landing/us_landing.md)
@@ -138,4 +130,4 @@ It does not include:
 
 This repository is not a securities offering, investment solicitation, patent filing, trademark filing, or legal filing. It is a public-safe product and investor communication package.
 
-The VODA name, product strategy, private prototype, technical implementation, workflows, and related materials are being developed by the project founders. Formal legal protection, IP assignment, trademark review, and fundraising documents should be prepared with qualified counsel.
+The VODA name, product strategy, product materials, workflows, and related assets are being developed by the project founders. Formal legal protection, IP assignment, trademark review, and fundraising documents should be prepared with qualified counsel.

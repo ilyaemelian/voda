@@ -70,7 +70,7 @@ Additional revenue:
 
 ## Product Status
 
-VODA has a private working prototype. The public repository intentionally excludes the technical core, automation workflows, prompts, deployment details, and proprietary implementation assets.
+VODA is being developed as a production education technology product with public market materials, landing pages, pricing strategy, and investor-facing documentation.
 
 ## Market Entry
 

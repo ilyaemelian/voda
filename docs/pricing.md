@@ -22,6 +22,16 @@ Main plan: **Path**.
 
 Main plan: **Path**.
 
+## United Kingdom
+
+| Plan | Price | Positioning |
+| --- | ---: | --- |
+| Start | GBP 29/month | competition discovery, deadline tracking, and student route basics |
+| Path | GBP 59/month | personalized competition, super-curricular, and UCAS evidence route |
+| Pro | GBP 99/month | premium profile strategy, parent reporting, and admissions evidence planning |
+
+Main plan: **Path**.
+
 ## Conversion Model
 
 VODA should start with a free personalized preview:
@@ -36,4 +46,3 @@ VODA should start with a free personalized preview:
 Students may initiate usage, but parents are expected to be the primary payers, especially for students under 18.
 
 The product should support parent payment links and recurring billing.
-

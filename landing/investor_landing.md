@@ -58,7 +58,8 @@ Admissions are increasingly competitive. Families are already paying for educati
 Recurring subscriptions:
 
 - Russia: 1,990 / 2,990 / 3,990 RUB per month;
-- United States: $19 / $39 / $79 per month.
+- United States: $19 / $39 / $79 per month;
+- United Kingdom: GBP 29 / GBP 59 / GBP 99 per month.
 
 Additional revenue:
 
@@ -85,6 +86,13 @@ United States:
 - academic competitions;
 - college application profile;
 - counselors, parents, and selective college families.
+
+United Kingdom:
+
+- competitions and challenges;
+- super-curricular evidence;
+- UCAS profile planning;
+- parents, tutors, and ambitious sixth-form students.
 
 ## Vision
 

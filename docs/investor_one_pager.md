@@ -78,6 +78,12 @@ United States:
 - Path: $39/month
 - Pro: $79/month
 
+United Kingdom:
+
+- Start: GBP 29/month
+- Path: GBP 59/month
+- Pro: GBP 99/month
+
 Additional revenue streams:
 
 - family plans;
@@ -107,6 +113,14 @@ United States:
 - homeschool and gifted education communities;
 - counselors and tutors;
 - SEO around competitions, scholarships, and summer programs.
+
+United Kingdom:
+
+- Google Search;
+- parent communities;
+- tutor and admissions consultant partnerships;
+- school and sixth-form counselor outreach;
+- SEO around UKMT, admissions tests, super-curricular evidence, UCAS, and scholarships.
 
 ## Milestones
 

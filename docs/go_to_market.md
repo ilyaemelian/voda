@@ -37,13 +37,28 @@ Primary offer:
 
 **Get 3 competitions that fit your student and their college goals.**
 
+## United Kingdom
+
+Initial channels:
+
+- Google Search;
+- SEO around UK competitions, admissions tests, super-curricular evidence, UCAS, scholarships, and sixth-form planning;
+- parent communities;
+- tutor and admissions consultant partnerships;
+- school and sixth-form counselor outreach;
+- newsletters for ambitious students and parents.
+
+Primary offer:
+
+**Get 3 opportunities that fit your student's subject strengths, admissions route, and UCAS goals.**
+
 ## Funnel
 
 Ad/Search/Post -> Landing -> Free Preview -> 3 Matched Opportunities -> Parent Payment Link -> Subscription -> First Weekly Report
 
-## Why Two Landings
+## Why Separate Landings
 
-Russia and the US buy different meanings.
+Each market buys a different meaning, so product pages should stay local.
 
 Russia:
 
@@ -62,3 +77,11 @@ United States:
 - summer programs;
 - parent visibility.
 
+United Kingdom:
+
+- UCAS evidence;
+- competitions and challenges;
+- super-curricular profile;
+- admissions tests;
+- scholarships;
+- parent and tutor visibility.

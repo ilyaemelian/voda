@@ -89,6 +89,12 @@ VODA is a recurring subscription product.
 - Path: $39/month
 - Pro: $79/month
 
+### United Kingdom
+
+- Start: GBP 29/month
+- Path: GBP 59/month
+- Pro: GBP 99/month
+
 ## Product Status
 
 VODA has public-facing materials, market framing, landing pages, pricing strategy, and a product roadmap. Product development and technical implementation are maintained separately from this public repository.
@@ -124,6 +130,7 @@ It includes:
 - [Mission](docs/mission.md)
 - [Russian Landing Copy](landing/ru_landing.md)
 - [US Landing Copy](landing/us_landing.md)
+- [UK Landing Copy](landing/uk_landing.md)
 - [Investor Landing Copy](landing/investor_landing.md)
 
 ## Legal Notice

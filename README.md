@@ -122,6 +122,7 @@ It includes:
 - [Impact Statement](docs/impact_statement.md)
 - [Investor One-Pager](docs/investor_one_pager.md)
 - [Traction Plan](docs/traction_plan.md)
+- [First Revenue Sprint](docs/first_revenue_sprint.md)
 - [Data Room Index](docs/data_room_index.md)
 - [Public Roadmap](docs/public_roadmap.md)
 - [Pricing](docs/pricing.md)
